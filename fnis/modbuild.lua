@@ -8,6 +8,6 @@ sources = {
 }
 
 function package()
-	install("fnis/FNIS Behavior "..version.."/*")
+	install("fnis/FNIS Behavior "..version.."/Data/*")
 end
 

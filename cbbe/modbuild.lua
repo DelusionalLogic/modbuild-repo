@@ -7,6 +7,6 @@ sources = {
 }
 
 function package()
-	install("cbbe/00 Required (Slim)/*")
+	install("cbbe/../cbbe/00 Required (Slim)/*")
 end
 

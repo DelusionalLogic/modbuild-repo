@@ -1,9 +1,8 @@
 name = "xpmse-base"
 version="3.94"
-depends = {"fnis>=6.1", "realistic-ragdolls-and-force>=1.9", "netimmerse-override-standalone>=3.4.4" }
+depends = {"fnis>=6.1", "realistic-ragdolls-and-force>=1.9", "netimmerse-override-standalone>=3.4.4"}
 conflicts = { "race-menu<3.4.5" }
-provides = {"xpms"}
---conflicts = {"race-menu"}
+provides = {"xpms", "xpmse"}
 sources = {
 	"nexus://1000241946::xpmse.7z"
 }

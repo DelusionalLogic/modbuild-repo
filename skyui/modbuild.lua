@@ -1,6 +1,8 @@
 name = "skyui"
 version = "5.1"
-depends = {}
+depends = {
+	"skse",
+}
 provides = {}
 conflicts = {}
 sources = {

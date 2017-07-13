@@ -8,6 +8,6 @@ sources = {
 }
 
 function package(pkgins)
-	install("fnis/FNIS Spells "..version.."/*")
+	install("fnis/FNIS Spells "..version.."/Data/*")
 end
 

@@ -8,6 +8,6 @@ sources = {
 }
 
 function package()
-	install("fnis/FNIS Creature Pack "..version.."/*")
+	install("fnis/FNIS Creature Pack "..version.."/Data/*")
 end
 
