@@ -7,6 +7,10 @@ conflicts = {
 	"legendary-edition",
 	-- Immsersive creatures also requires a patch
 	"immersive-creatures",
+	-- Monster Mod V4 (Nexus)
+	"monster-mod-nexus",
+	-- Monster Mod V13+ (Not on nexus)
+	"monster-mod",
 }
 optdepends = {
 	"skse::Configuration UI",
